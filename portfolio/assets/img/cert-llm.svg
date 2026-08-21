@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460">
+  <rect width="640" height="460" fill="#ffffff"/>
+  <rect x="14" y="14" width="612" height="432" fill="none" stroke="#2563eb" stroke-width="3"/>
+  <rect x="24" y="24" width="592" height="412" fill="none" stroke="#c7d9fb" stroke-width="1"/>
+
+  <text x="320" y="76" text-anchor="middle" font-family="'Jetbrains Mono', monospace" font-size="13" letter-spacing="4" fill="#2563eb">CERTIFICATE OF COMPLETION</text>
+  <line x1="240" y1="92" x2="400" y2="92" stroke="#dbe6fd" stroke-width="2"/>
+
+  <text x="320" y="150" text-anchor="middle" font-family="Poppins, sans-serif" font-size="15" fill="#8992a3">This certifies that</text>
+  <text x="320" y="192" text-anchor="middle" font-family="Poppins, sans-serif" font-size="34" font-weight="600" fill="#0b0f19">Muneeswaran</text>
+  <text x="320" y="222" text-anchor="middle" font-family="Poppins, sans-serif" font-size="15" fill="#8992a3">has successfully completed the course</text>
+
+  <text x="320" y="262" text-anchor="middle" font-family="Poppins, sans-serif" font-size="24" font-weight="600" fill="#2563eb">Large Language Models</text>
+
+  <!-- seal -->
+  <circle cx="320" cy="330" r="34" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="320" cy="330" r="26" fill="#eaf1ff"/>
+  <rect x="304" y="318" width="10" height="10" rx="2" fill="#2563eb" opacity="0.85"/>
+  <rect x="317" y="318" width="10" height="10" rx="2" fill="#2563eb" opacity="0.65"/>
+  <rect x="304" y="331" width="10" height="10" rx="2" fill="#2563eb" opacity="0.65"/>
+  <rect x="317" y="331" width="10" height="10" rx="2" fill="#2563eb" opacity="0.85"/>
+
+  <line x1="120" y1="392" x2="230" y2="392" stroke="#0b0f19" stroke-width="1"/>
+  <text x="175" y="410" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#8992a3">Instructor</text>
+
+  <line x1="410" y1="392" x2="520" y2="392" stroke="#0b0f19" stroke-width="1"/>
+  <text x="465" y="410" text-anchor="middle" font-family="Inter, sans-serif" font-size="11" fill="#8992a3">Online Certification</text>
+</svg>
